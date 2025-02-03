@@ -1,0 +1,10 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+huggingface_hub
+dotenv
+pypdf
+tempfile
+shutil
+pathlib
